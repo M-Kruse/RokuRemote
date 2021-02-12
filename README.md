@@ -28,4 +28,4 @@ You can save an active device configuration in the menu. It will be saved to .ro
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
